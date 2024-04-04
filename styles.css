@@ -1,0 +1,22 @@
+body{
+    background-color:  rgb(120, 194, 216);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+h3{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    background-color:black;
+    color: white;
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 100px;
+
+}
+button:hover{
+    background-color: white;
+    color: black
+}
